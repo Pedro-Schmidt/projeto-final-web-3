@@ -1,5 +1,5 @@
 # biblioteca-frontend
-Um sistema de gerenciamento de livros para bibliotecas
+Um sistema de front-end de gerenciamento de livros para bibliotecas
 
 ## Project setup
 ```
