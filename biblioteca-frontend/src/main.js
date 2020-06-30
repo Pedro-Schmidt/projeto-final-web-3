@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import VueRouter from 'vue-router'
 
-import Menu from './components/Menu.vue'
+import Books from './components/Books.vue'
 
 Vue.config.productionTip = false
 
@@ -13,12 +13,12 @@ const router = new VueRouter({
   routes: [
     {
       path: '/',
-      redirect: '/menu',
-      component: Menu
+      redirect: '/books',
+      component: Books
     },
     {
-      path: '/menu',
-      component: Menu
+      path: '/books',
+      component: Books
     }
   ]
 })
