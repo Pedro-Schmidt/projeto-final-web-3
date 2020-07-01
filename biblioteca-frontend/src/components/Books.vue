@@ -86,11 +86,6 @@ font-family: 'Poppins', sans-serif;
     height: 100%;
     
 }
-.container{
-  /*width: 70%;
-  margin: 0 15%;*/
-  
-}
 h2{
   font-size: 2em;
   line-height: 4rem;
