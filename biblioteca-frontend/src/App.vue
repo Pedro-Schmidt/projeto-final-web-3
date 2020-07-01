@@ -28,6 +28,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.5vh;
   color: #2c3e50;
-  line-height: 4vh;
+  /*line-height: 4vh;*/
 }
 </style>
