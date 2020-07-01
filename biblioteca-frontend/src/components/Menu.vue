@@ -3,9 +3,9 @@
     <h1><a>&#x1F4DA;</a>&emsp;Bibliotech</h1>
     <hr>
     <nav>
-      <a href="#">Pesquisar Livros</a>
+      <a href="/books">Pesquisar Livros</a>
       
-      <a href="#">Sobre</a>
+      <a href="/about">Sobre</a>
     </nav>
     <hr>
   </div>
