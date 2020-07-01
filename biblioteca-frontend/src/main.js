@@ -3,6 +3,7 @@ import App from './App.vue'
 import VueRouter from 'vue-router'
 
 import Books from './components/Books.vue'
+import About from './components/About.vue'
 
 Vue.config.productionTip = false
 
@@ -19,6 +20,10 @@ const router = new VueRouter({
     {
       path: '/books',
       component: Books
+    },
+    {
+      path: '/about',
+      component: About
     }
   ]
 })
